@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# AI model files
+*.pkl
+*.h5
+*.pt
+*.pth
+*.zip
+
+# Dataset
+dataset/
+
+# Training output
+runs/
+
+# Upload files
+uploads/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
