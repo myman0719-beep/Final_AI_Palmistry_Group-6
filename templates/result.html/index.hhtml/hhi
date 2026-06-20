@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Result</title>
+</head>
+
+<body>
+
+<h1>Palm Analysis Result</h1>
+
+<h2>Scores</h2>
+
+<ul>
+
+<li>Logic: {{ result.scores.logic }}</li>
+<li>Emotion: {{ result.scores.emotion }}</li>
+<li>Leadership: {{ result.scores.leadership }}</li>
+<li>Creativity: {{ result.scores.creativity }}</li>
+
+</ul>
+
+<h2>Analysis</h2>
+
+<pre>
+{{ result.analysis }}
+</pre>
+
+<h2>Report</h2>
+
+<pre>
+{{ result.report }}
+</pre>
+
+</body>
+</html>
