@@ -88,11 +88,11 @@ Final_AI_Palmistry_Group-6
 >
 > Please download the required files from the links below before running the application.
 
-### Dataset
+### Dataset & Runs
 
-Download the dataset folder here:
+Download the dataset & runs folder here:
 
-Dataset Link:
+Dataset & runs Link:
 https://drive.google.com/drive/folders/17pfKczN4mosIfYdY8pJK_lf4jGom6Bao?usp=sharing
 
 After downloading, place the folder inside:
@@ -100,6 +100,7 @@ After downloading, place the folder inside:
 ```text
 Final_AI_Palmistry_Group-6/
 └── dataset/
+└── runs/
 ```
 
 ### Trained Model
