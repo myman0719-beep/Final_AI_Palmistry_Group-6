@@ -77,7 +77,7 @@ Final_AI_Palmistry_Group-6
 ├── README.md
 ├── .gitignore
 └── LICENSE
-
+```
 ---
 
 ## 📥 Dataset & Model Download
