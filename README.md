@@ -77,3 +77,41 @@ Final_AI_Palmistry_Group-6
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+---
+
+## 📥 Dataset & Model Download
+
+> **Important Note**
+>
+> Due to GitHub file size limitations, some project files are not included in this repository because they exceed the upload size limit.
+>
+> Please download the required files from the links below before running the application.
+
+### Dataset
+
+Download the dataset folder here:
+
+Dataset Link:
+https://drive.google.com/drive/folders/17pfKczN4mosIfYdY8pJK_lf4jGom6Bao?usp=sharing
+
+After downloading, place the folder inside:
+
+```text
+Final_AI_Palmistry_Group-6/
+└── dataset/
+```
+
+### Trained Model
+
+Download the pretrained model (`traits_model.pkl`) here:
+
+Model Link:
+https://drive.google.com/drive/folders/1xAH-mObcpcQNbbJrXdEPvHYl2TA4_TY4?usp=sharing
+
+After downloading, place the file inside:
+
+```text
+Final_AI_Palmistry_Group-6/
+└── traits_model.pkl
+```
