@@ -1,21 +1,34 @@
-# Final_AI_Palmistry_Group-6
-DESCRIPTION
-     Final_AI_Palmistry_Group-6 is an AI-powered Palmistry Analysis application developed as a final course project. The system 
-uses computer vision, machine learning, and palmistry-based analysis techniques to process palm images and generate intelligent interpretations.
+# 🖐️ Final_AI_Palmistry_Group-6
 
-     Users can upload a hand image, and the application extracts palm features, analyzes palm characteristics, predicts
-personality traits, provides career suggestions, and generates a summarized report based on the detected palm patterns.
+## 📖 Description
 
-MAIN FEATURES
-- Upload and process palm images
-- Palm feature extraction and analysis
-- AI-based personality prediction
-- Career recommendation system
-- Automated report generation
-- Result summary and interpretation
-- User-friendly web interface
+**Final_AI_Palmistry_Group-6** is an AI-powered Palmistry Analysis web application developed as a final course project. The system integrates Computer Vision, Machine Learning, and Palmistry-based analysis techniques to process palm images and generate intelligent interpretations.
 
-PROJECT STRUCTURE
+Users can upload a palm image, and the application automatically extracts hand features, analyzes palm characteristics, predicts personality traits, provides career recommendations, and generates summarized reports based on detected palm patterns.
+
+---
+
+## ✨ Main Features
+
+✔ Upload and process palm images
+
+✔ Palm feature extraction and analysis
+
+✔ AI-based personality prediction
+
+✔ Career recommendation system
+
+✔ Automated report generation
+
+✔ Result summary and interpretation
+
+✔ User-friendly web interface
+
+---
+
+## 📂 Project Structure
+
+```text
 Final_AI_Palmistry_Group-6
 │
 ├── AI_model/
@@ -64,3 +77,6 @@ Final_AI_Palmistry_Group-6
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+
+Group 6
